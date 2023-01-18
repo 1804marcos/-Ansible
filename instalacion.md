@@ -6,4 +6,4 @@ apt install ansible
 ## Comando para comprobar que esta instalado y la version
 apt policy ansible
 
-![a]()
+![a](https://github.com/1804marcos/-Ansible/blob/main/imagenes/policy.PNG)
