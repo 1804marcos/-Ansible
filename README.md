@@ -5,5 +5,5 @@
 ### [3.- Instalación de Ansible](https://github.com/1804marcos/-Ansible/blob/main/instalacion.md)
 ### [4.- Configurar un playbook en Ansible](https://github.com/1804marcos/-Ansible/blob/main/configurar.md)
 ### [5.- Desplegar servicios en Ansible](https://github.com/1804marcos/-Ansible/blob/main/desplegar.md)
-### [6.-Referencias]
-### [7.-Licencia]
+### [6.-Referencias](https://github.com/1804marcos/-Ansible/blob/main/referencias.md)
+### [7.-Licencia](https://github.com/1804marcos/-Ansible/blob/main/licencia.md)
